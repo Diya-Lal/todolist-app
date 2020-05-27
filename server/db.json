@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "",
+      "id": 1,
+      "complete": false
+    },
+    {
+      "title": "nap",
+      "id": 2,
+      "complete": true
+    },
+    {
+      "title": "excercise",
+      "id": 3,
+      "complete": false
+    }
+  ]
+}
